@@ -130,8 +130,7 @@ This project implements an interactive object sorting game using Unity Engine. T
 - **Ilham Muhammad Arif** - Student ID: 4.33.22.0.10
 - **Maulana Bintang C.M** - Student ID: 4.33.22.0.15
 
-**Course:** Game Programming Practicum  
-**Department:** Informatics Engineering  
-**Faculty:** Electrical Engineering  
+**Course:** Game Programming  
+**Department:** Electrical Engineering  
 **Institution:** Politeknik Negeri Semarang  
 **Year:** 2024
